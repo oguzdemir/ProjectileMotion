@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>4GProject</label>
+		<id>136</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>4GProject.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>ProjectileMotion\ProjectileMotion.jcp</path>
+		</project>
+	</projects>
+</workspace>
